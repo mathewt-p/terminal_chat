@@ -1,4 +1,4 @@
-# terminal_chat
+# Terminal_chat
 Basic TCP chat in terminal using ruby
 
 # How to start
